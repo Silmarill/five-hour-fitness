@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 4,
+  "pendingConfirmation": false,
+  "pendingExercises": null,
+  "cumulativeFiveHourPercent": 0,
+  "cumulativeExercisePercent": 0,
+  "totalEstimatedCalories": 0,
+  "assigned": {
+    "pushUps": 0,
+    "squats": 0,
+    "abdominalRepetitions": 0,
+    "dumbbellCurlsPerArm": 0
+  },
+  "modelConversionFactors": {
+    "gpt-5.6-sol": 1.0,
+    "gpt-5.6-luna": 9.7
+  },
+  "sessions": [],
+  "activeSession": null
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Пятичасовая физкультура"
+  short_description: "Превращает расход Codex в упражнения"
+  default_prompt: "Use $five-hour-fitness to measure this Codex session and assign the corresponding exercises."
+
+policy:
+  allow_implicit_invocation: true
